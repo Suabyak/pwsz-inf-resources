@@ -77,8 +77,8 @@ pokazuje stan repozytorium
 #### Wprowadzanie zmian do repozytorium
 Prawdopodobnie przy pierwszych zmianach będzie trzeba dodać poświadczenia uwierzytelniające:
 ```
-git config user.name = "Student Studencki"
-git config user.email = "student@example.com"
+git config user.name "Student Studencki"
+git config user.email "student@example.com"
 ```
 
 Warto podać swoje prawdziwe dane, aby Github później przyjął żadanie. Po jakiejkolwiek zmianie, dodaniu lub usunięciu pliku, należy zapisać swoje zmiany: 
