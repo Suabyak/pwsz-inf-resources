@@ -20,7 +20,7 @@ abstract public class Animal {
             throw new Exception(getName() + " doesn't eat " + food + ".");
         }
 
-        hungry = true;
+        hungry = false;
         Log.info(getName() + " fed.");
     }
 
